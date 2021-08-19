@@ -1,0 +1,13 @@
+C:\Users\manascimento\Documents\PROJ\WORKSPACE\projeto1-Cursos-madn\bin\Debug\netcoreapp3.1\MADN.Cursos.exe
+C:\Users\manascimento\Documents\PROJ\WORKSPACE\projeto1-Cursos-madn\bin\Debug\netcoreapp3.1\MADN.Cursos.deps.json
+C:\Users\manascimento\Documents\PROJ\WORKSPACE\projeto1-Cursos-madn\bin\Debug\netcoreapp3.1\MADN.Cursos.runtimeconfig.json
+C:\Users\manascimento\Documents\PROJ\WORKSPACE\projeto1-Cursos-madn\bin\Debug\netcoreapp3.1\MADN.Cursos.runtimeconfig.dev.json
+C:\Users\manascimento\Documents\PROJ\WORKSPACE\projeto1-Cursos-madn\bin\Debug\netcoreapp3.1\MADN.Cursos.dll
+C:\Users\manascimento\Documents\PROJ\WORKSPACE\projeto1-Cursos-madn\bin\Debug\netcoreapp3.1\MADN.Cursos.pdb
+C:\Users\manascimento\Documents\PROJ\WORKSPACE\projeto1-Cursos-madn\obj\Debug\netcoreapp3.1\MADN.Cursos.csprojAssemblyReference.cache
+C:\Users\manascimento\Documents\PROJ\WORKSPACE\projeto1-Cursos-madn\obj\Debug\netcoreapp3.1\MADN.Cursos.AssemblyInfoInputs.cache
+C:\Users\manascimento\Documents\PROJ\WORKSPACE\projeto1-Cursos-madn\obj\Debug\netcoreapp3.1\MADN.Cursos.AssemblyInfo.cs
+C:\Users\manascimento\Documents\PROJ\WORKSPACE\projeto1-Cursos-madn\obj\Debug\netcoreapp3.1\MADN.Cursos.csproj.CoreCompileInputs.cache
+C:\Users\manascimento\Documents\PROJ\WORKSPACE\projeto1-Cursos-madn\obj\Debug\netcoreapp3.1\MADN.Cursos.dll
+C:\Users\manascimento\Documents\PROJ\WORKSPACE\projeto1-Cursos-madn\obj\Debug\netcoreapp3.1\MADN.Cursos.pdb
+C:\Users\manascimento\Documents\PROJ\WORKSPACE\projeto1-Cursos-madn\obj\Debug\netcoreapp3.1\MADN.Cursos.genruntimeconfig.cache
